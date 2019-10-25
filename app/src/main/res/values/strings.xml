@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">汇率转换</string>
+    <string name="tv_tips">这是一个单纯的汇率转换工具\n\n1.实现两个EditText的联动\n2.实现EditText内容的实时修改格式化（千分位等）\n\nyy:1 CNY = 9.130515 USD</string>
+    <string name="tv_cny">人民币CNY</string>
+    <string name="et_cny_hint">人民币CNY金额</string>
+    <string name="tv_usd">美元USD</string>
+    <string name="et_usd_hint">美元USD金额</string>
+    <string name="tv_hope">真心的希望某年某月某日的时候，可以实现这个汇率大小，甚至全球只用我大天国的人民币</string>
+</resources>
